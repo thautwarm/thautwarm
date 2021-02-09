@@ -2,6 +2,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+```text
+Python     40 hrs 36 mins  ████████████▒░░░░░░░░░░░░   49.48 % 
+Julia      32 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   39.27 % 
+Markdown   7 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+LLVM       25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JSON       24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently preparing for my presentation on [TFP2021/Lambda Days 2021](https://www.lambdadays.org/lambdadays2021). It's about designing JIT compilers for dynamic programming languages, especially for CPython.
