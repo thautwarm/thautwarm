@@ -10,8 +10,8 @@ Julia      8 mins          ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-- 🔭 I’m currently preparing for my presentation on [TFP2021/Lambda Days 2021](https://www.lambdadays.org/lambdadays2021). It's about designing JIT compilers for dynamic programming languages, especially for CPython.
-- 🌱 I’m currently learning programming languages: partial evaluation and type systems.
+- 🔭 Currently working on JIT for dynamic programming languages.
+- 🌱 Currently learning programming languages: partial evaluation and type systems.
 - 💬 Ask me about advanced features or abstractions of programming languages(no Rust🤔)/why Julia makes a difference.
 - 😄 Pronouns: could we avoid talking about this?..
 - ⚡ Fun fact: I have implemented most common programming language features in person: pattern matching, type classes, OOP classes/virtual tables/interfaces, xxx polymorphisms...
