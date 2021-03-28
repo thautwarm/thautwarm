@@ -3,11 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other              8 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.87 % 
-Julia              6 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 % 
-Markdown           3 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-reStructuredText   1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-TOML               1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Other              9 hrs 12 mins   ████████████████▒░░░░░░░░   64.73 % 
+Markdown           3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
+reStructuredText   1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Python             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
 
