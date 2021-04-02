@@ -3,9 +3,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-TeX        7 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.01 % 
-Other      6 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   38.33 % 
-Markdown   3 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.64 % 
+TeX        16 hrs 30 mins  ████████████████▓░░░░░░░░   66.42 % 
+Other      4 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Markdown   3 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 <!--END_SECTION:waka-->
 
