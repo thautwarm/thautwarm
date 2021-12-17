@@ -8,7 +8,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 - 🔭 Currently busy with recent graduation.
-% - 🌱 Currently learning Game Engines. 
 - 💬 Ask me about advanced features or abstractions of programming languages(no Rust🤔)/why Julia makes a difference.
 - 😄 Pronouns: could we avoid talking about this?..
 - ⚡ Fun fact: I have implemented most common programming language features in person: pattern matching, type classes, OOP classes/virtual tables/interfaces, xxx polymorphisms...
