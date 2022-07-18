@@ -8,9 +8,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 - 🔭 Working with the Julia programming language.
-- 💬 Ask me about advanced features or abstractions of programming languages(no Rust🤔)/why Julia makes a difference.
-- 😄 Pronouns: could we avoid talking about this?..
-- ⚡ Fun fact: I have implemented most common programming language features in person: pattern matching, type classes, OOP classes/virtual tables/interfaces, xxx polymorphisms...
 
 <!--
 **thautwarm/thautwarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
